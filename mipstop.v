@@ -1,7 +1,5 @@
 //------------------------------------------------
 // top.v
-// David_Harris@hmc.edu 9 November 2005
-// Top level system including MIPS and memories
 //------------------------------------------------
 `timescale 1ns/1ns
 
